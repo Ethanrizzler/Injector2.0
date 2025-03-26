@@ -1,0 +1,6 @@
+﻿  CleintHooker.cpp
+C:\Users\Ethan\source\repos\ModuleLoader\ModuleLoader\CleintHooker.cpp(12,9): warning C4005: 'PROCESS_ALL_ACCESS': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(12684,9):
+      see previous definition of 'PROCESS_ALL_ACCESS'
+  
+  ModuleLoader.vcxproj -> C:\Users\Ethan\source\repos\ModuleLoader\x64\Debug\ModuleLoader.exe
