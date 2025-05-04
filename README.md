@@ -1,5 +1,5 @@
 # Injector 2.0
-- Thread Execution using NtCreateThreadEx
+- Thread Execution
 - DLL Injection via LoadLibraryA
 - Patching WinVerifyTrust
 
