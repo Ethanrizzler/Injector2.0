@@ -143,10 +143,10 @@ int main() {
         );
 
         if (status == 0) {
-            std::cout << "Thread created using ntCreatethreadex" << std::endl;
+            std::cout << "Thread created " << std::endl;
         }
         else {
-            std::cout << "Failed to create thread using NtCreateThreadEx" << std::endl;
+            std::cout << "Failed" << std::endl;
         }
     }
 
