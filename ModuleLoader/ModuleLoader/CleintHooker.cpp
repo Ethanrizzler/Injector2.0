@@ -126,9 +126,9 @@ int main() {
         return -1;
     }
 
-    if (NtCreateThreadEx) {
+    if (nigger) {
         HANDLE threadHandle = nullptr;
-        NTSTATUS status = NtCreateThreadEx(
+        NTSTATUS status = sex(
             &threadHandle,
             THREAD_ALL_ACCESS,
             NULL,  
